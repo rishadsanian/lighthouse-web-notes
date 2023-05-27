@@ -5,3 +5,5 @@ This repo contains notes taken by [Rishad](https://github.com/rishadsanian) for 
 ## Table of Contents
 * [Week 1](/Week_1/)
   * [Day 1](/Week_1/Day_1/)
+  * [Day 2](/Week_1/Day_2/)
+  
