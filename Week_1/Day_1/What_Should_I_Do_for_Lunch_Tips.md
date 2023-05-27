@@ -20,6 +20,8 @@ To help you figure out how to use `hungry` and `availableTime` inside your funct
  * hungry is a Boolean, representing if you're hungry or not.
  * availableTime is a Number representing the time you have for lunch,
  * in minutes.
+ * 
+ * *NOTE the outputs have been adjusted to reflect instructions for remote course.
  */
 const whatToDoForLunch = function(hungry, availableTime) {
   if (hungry === true) {
